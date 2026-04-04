@@ -1,0 +1,34 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+"uv.lock" 
+# Data files
+*.pdf
+*.db
+*.sqlite3
+*.faiss
+*.bin
+uv.lock
+
+# Vector DB folders
+chroma_db/
+vectorDB/
+DataingestParsing/data/
+vector store/chroma_db/
+vector store/faiss_DB/
+
+vectorDB/chroma.sqlite3
+data_level0.bin
+index.faiss
+.env
+.python-version
+data/
+# Temp Word files
+~$*.docx
