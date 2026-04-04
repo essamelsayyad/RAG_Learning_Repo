@@ -19,7 +19,6 @@ uv.lock
 
 # Vector DB folders
 chroma_db/
-vectorDB/
 DataingestParsing/data/
 vector store/chroma_db/
 vector store/faiss_DB/
