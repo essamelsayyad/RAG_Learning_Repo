@@ -16,12 +16,13 @@ unstructured[DOCX]
 pandas
 openpyxl
 matplotlib
-numpy
+numpay
 #embedding word2vec
 langchain-huggingface
 sentence-transformers
-langchain-astradb
-langchain-pinecone
-langchain-experimental
-rank_bm25
-langchain-openrouter
+langchain-google-genai
+fastapi
+uvicorn
+langchain-qdrant
+qdrant-client
+dashscope

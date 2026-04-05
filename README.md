@@ -35,7 +35,7 @@ RAG_System/
 | 4 | Advanced Vector DB Configs | `vectorDB/` | ✅ Done |
 | 5 | Advanced Chunking & Preprocessing | `advanced_chankes_and_preprocessing/` | ✅ Done |
 | 6 | Hybrid Search Strategy | `Hypird_search_stratigy/` | ✅ Done |
-| 7 | Query Enhancement | *(coming soon)* | 🔜 Next |
+| 7 | Query Enhancement | *(coming soon)* | ✅ Done |
 | 8 | Agentic AI | *(separate folder)* | 🔜 Planned |
 
 ---

@@ -22,7 +22,7 @@ chroma_db/
 DataingestParsing/data/
 vector store/chroma_db/
 vector store/faiss_DB/
-
+multi-model RAG/multimodal_sample.pdf
 vectorDB/chroma.sqlite3
 data_level0.bin
 index.faiss
